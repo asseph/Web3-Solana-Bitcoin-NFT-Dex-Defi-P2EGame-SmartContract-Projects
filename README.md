@@ -5,27 +5,27 @@ As you can see here, I have built several LAMP, MERN, MEVN, MEAN Stack, NFT/Bloc
 <h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/microgift/web3-projects-overview/assets/127183857/6c25a679-bdfb-4cec-aeff-4ee85c803214">
+<img align="right" width="300px" src="https://github.com/super1002/web3-projects-overview/assets/127183857/6c25a679-bdfb-4cec-aeff-4ee85c803214">
 
 Gift for pixel artists.
 Spritebox is a minting platform that pixel artists can send there arts every week and users can mint the seleted great arts among them.
 
 - Live: <a href="https://spritebox.art">Spritebox</a>
 - Live backend: <a href="https://api.spritebox.art">Spritebox backend</a>
-- Frontend repo: <a href="https://github.com/microgift/spritebox">Spritebox-frontend</a>
-- Backend repo: <a href="https://github.com/microgift/sprite-box-backend">Spritebox-brontend</a>
+- Frontend repo: <a href="https://github.com/super1002/spritebox">Spritebox-frontend</a>
+- Backend repo: <a href="https://github.com/super1002/sprite-box-backend">Spritebox-brontend</a>
 <h3><u><strong><i>The Hoopas</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/microgift/web3-projects-overview/assets/127183857/ac4fefd7-0ee5-445d-aec2-8856487d0ac0">
+<img align="right" width="300px" src="https://github.com/super1002/web3-projects-overview/assets/127183857/ac4fefd7-0ee5-445d-aec2-8856487d0ac0">
 
 Successfully audited backend.
 Built a site for locking Hoopas and Banana collection for 1 month, 3 months or 6 months.
 
 - Live: <a href="https://dev.d3c0jk89ozv3l5.amplifyapp.com">The Hoopas</a>
 - Staking: <a href="https://lock.3pixl.com">The Hoopas Locking</a>
-- Contract program repo: <a href="https://github.com/microgift/hoopas-staking">Hoopas-lock-contract</a>
-- Frontend repo: <a href="https://github.com/microgift/hoopas">Hoopas-lock-frontend</a>
+- Contract program repo: <a href="https://github.com/super1002/hoopas-staking">Hoopas-lock-contract</a>
+- Frontend repo: <a href="https://github.com/super1002/hoopas">Hoopas-lock-frontend</a>
 
 <br/>
 
@@ -35,14 +35,14 @@ Built a site for locking Hoopas and Banana collection for 1 month, 3 months or 6
 This is a Lootbox game for `TombStoned`.
 There are 4 coffins in the game. 2 for SOL, 1 for $JOINTS. And the last coffins is a free one that `TombStone HighSociety` holders can open once in a day.
 
-<img align="right" width="300px" src="https://github.com/microgift/web3-projects-overview/assets/127183857/38edc2ad-1cac-412a-b555-af16a3719d99">
+<img align="right" width="300px" src="https://github.com/super1002/web3-projects-overview/assets/127183857/38edc2ad-1cac-412a-b555-af16a3719d99">
 
 I built backend & smart contract as well as supported web3 integration to front-end.
 
 - Live: <a href="https://coffins.tombstoned.app/">Coffins - LootBox | TombStoned</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/microgift/tombstoned-lootbox-backend">Tombstoned-lootbox-backend</a>
-  - contract program repo: <a href="https://github.com/microgift/tombstoned-lootbox-program">Tombstoned-lootbox-program</a>
+  - backend repo: <a href="https://github.com/super1002/tombstoned-lootbox-backend">Tombstoned-lootbox-backend</a>
+  - contract program repo: <a href="https://github.com/super1002/tombstoned-lootbox-program">Tombstoned-lootbox-program</a>
 
 
 
@@ -50,14 +50,14 @@ I built backend & smart contract as well as supported web3 integration to front-
 <hr />
 
 This is a non-custodial staking for `Soblins` - a bluechip NFT collection on Solana network.
-<img align="right" width="300px" src="https://github.com/microgift/web3-projects-overview/assets/127183857/3195955d-48f3-403e-a2c1-47678ffd0b09">
+<img align="right" width="300px" src="https://github.com/super1002/web3-projects-overview/assets/127183857/3195955d-48f3-403e-a2c1-47678ffd0b09">
 
 I wrote smart contract and supported web3 integration to front-end.
 
 - Live: <a href="https://staking.soblins.io">Soblins staking</a>
 - Github repos: 
-  - smart contract repo: <a href="https://github.com/microgift/SoblinsStaking-SC">SoblinsStaking-contract</a>
-  - frontend repo: <a href="https://github.com/microgift/SoblinsStaking-FE">SoblinsStaking-frontend</a>
+  - smart contract repo: <a href="https://github.com/super1002/SoblinsStaking-SC">SoblinsStaking-contract</a>
+  - frontend repo: <a href="https://github.com/super1002/SoblinsStaking-FE">SoblinsStaking-frontend</a>
 
 
 <h3><u><strong><i>Monopoly</i></strong></u> &nbsp;(Solana)</h3>
@@ -72,9 +72,9 @@ I attended this project and wrote smart contract and supported on back-end/front
 
 - Live: <a href="https://www.monopoly.cafe">Monopoly</a>
 - Github repos: 
-  - smart contract repo: <a href="https://github.com/microgift/monopoly-program">monopoly-program</a>
-  - backend repo: <a href="https://github.com/microgift/monopoly-backend">monopoly-backend</a>
-  - frontend repo: <a href="https://github.com/microgift/monopoly-frontend">monopoly-frontend</a>
+  - smart contract repo: <a href="https://github.com/super1002/monopoly-program">monopoly-program</a>
+  - backend repo: <a href="https://github.com/super1002/monopoly-backend">monopoly-backend</a>
+  - frontend repo: <a href="https://github.com/super1002/monopoly-frontend">monopoly-frontend</a>
 
 
 
@@ -90,9 +90,9 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 
 - Live: <a href="https://degentaxi.io">Degen Taxi</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/microgift/taxi-crash-solana-backend">taxi-crash-solana-backend</a>
-  - smart contract repo: <a href="https://github.com/microgift/taxi-crash-solana-contract">taxi-crash-solana-contract</a>
-  - frontend repo: <a href="https://github.com/microgift/degen-taxi-frontend">degen-taxi-frontend</a>
+  - backend repo: <a href="https://github.com/super1002/taxi-crash-solana-backend">taxi-crash-solana-backend</a>
+  - smart contract repo: <a href="https://github.com/super1002/taxi-crash-solana-contract">taxi-crash-solana-contract</a>
+  - frontend repo: <a href="https://github.com/super1002/degen-taxi-frontend">degen-taxi-frontend</a>
 
 
 
@@ -105,7 +105,7 @@ This is coin-flip game on solana network. Payment is Sol and users can put their
 
 - Demo: <a href="https://deezkits-coinflip.vercel.app">Deezkits CoinFlip</a>
 - Live: <a href="https://coinflip.deezkits.com">Deezkits CoinFlip</a>
-- Github repo: <a href="https://github.com/microgift/coin-flip-solkitty">coin-flip-solkitty</a>
+- Github repo: <a href="https://github.com/super1002/coin-flip-solkitty">coin-flip-solkitty</a>
 
 
 
@@ -126,9 +126,9 @@ This is mint website on avalanche network. I used Solidity(ERC 721) to write sma
 - Testnet deployed contract address: <a href="https://testnet.snowtrace.io/address/0x80EEE1615feeD9c03aEbe94dCA6aDF1680cd41C6#code">Testnet contract</a>
 - Mainnet deployed contract address: <a href="">Mainnet contract</a>
 - Github repo:
-  - Contract: <a href="https://github.com/microgift/dale-mint-contract-avax">dale-mint-contract-avax</a>
-  - Backend: <a href="https://github.com/microgift/dale-mint-backend-avax">dale-mint-backend-avax</a>
-  - Frontend: <a href="https://github.com/microgift/dale-mint-frontend-avax">dale-mint-frontend-avax</a>
+  - Contract: <a href="https://github.com/super1002/dale-mint-contract-avax">dale-mint-contract-avax</a>
+  - Backend: <a href="https://github.com/super1002/dale-mint-backend-avax">dale-mint-backend-avax</a>
+  - Frontend: <a href="https://github.com/super1002/dale-mint-frontend-avax">dale-mint-frontend-avax</a>
 
 <h3><u><strong><i>Burning Masked Ape Dao</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -146,7 +146,7 @@ This is burning mechanism to burn NFTs have no metadata in Masked Ape collection
 - $MAD tokens contract: <a href="https://solscan.io/token/GkXn6PUbcvpwAzVCgJFychVhAhjwZRMJWmtqzar3SnqG">$MAD token</a>    
 - Magic Eden: <a href="https://magiceden.io/marketplace/maskedapedao">maskedapedao</a>
 - Offical Links: <a href="https://maskedapedao.xyz">Anonymous Masked Ape DAO</a>
-- Github repo: <a href="https://github.com/microgift/Burning_Masked_Ape">Burning_Masked_Ape</a>
+- Github repo: <a href="https://github.com/super1002/Burning_Masked_Ape">Burning_Masked_Ape</a>
 
 <h3><u><strong><i>BASC NFT Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -174,7 +174,7 @@ A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (
       - 25% bonus on the sum of the rarity multiplier.
 - Magic Eden: <a href="https://www.magiceden.io/marketplace/baby_ape_social_club">Buy BASC</a>
 - Offical Links: <a href="https://www.babyapesocialclub.com">BASC (Baby Ape Social Club)</a>
-- Github Repo: <a href="https://github.com/microgift/BASC-NFT-Staking">BASC-NFT-Staking</a>
+- Github Repo: <a href="https://github.com/super1002/BASC-NFT-Staking">BASC-NFT-Staking</a>
 
 <h3><u><strong><i>Astronaut NFT Staking -> YAKU Hub</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -200,7 +200,7 @@ Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut/YAKU👨�
   - Website: <a href="https://www.cosmicastronauts.com">Cosmic Astronaut</a>
   - Dashboard: <a href="https://minxlabs.io">Minx Labs Dashboard</a>
   - Moved to this link: <a href="https://www.yaku.ai">Yaku Hub</a>
-- Github repo: <a href="https://github.com/microgift/Astronaut-NFT-Staking-death">Astronaut-NFT-Staking-death</a>
+- Github repo: <a href="https://github.com/super1002/Astronaut-NFT-Staking-death">Astronaut-NFT-Staking-death</a>
 
 <h3><u><strong><i>Kingdom of Dwarves - Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -214,7 +214,7 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
   - users can reward according to their NFT rare
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
 - Original Link: <a href="https://www.kingdomofdwarves.io" target="_blank">Kingdom of Dwarves</a>
-- Github repo: <a href="https://github.com/microgift/Dwarves-staking" target="_blank">Dwarves-staking</a>
+- Github repo: <a href="https://github.com/super1002/Dwarves-staking" target="_blank">Dwarves-staking</a>
 - KOD Lore: <a href="https://kod-app.netlify.app/" target="_blank">KoD-Story</a>
  
 <h3><u><strong><i>FLWR Token Staking</i></strong></u> &nbsp;(Solana)</h3>
@@ -233,7 +233,7 @@ Staking an SPL token "FLWR"
   - transaction fee - 0.1 sol
   - penalties for early withdrawl - 6/12/24%
 - Original Link: <a href="https://dex.solflowers.io" target="_blank">FLOWERS Solana Marketplace</a>
-- Github repo : <a href="https://github.com/microgift/FLWR-staking" target="_blank">FLWR-staking</a>
+- Github repo : <a href="https://github.com/super1002/FLWR-staking" target="_blank">FLWR-staking</a>
 
 <h3><u><strong>SOL Flowers | Raffle</strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -255,7 +255,7 @@ This is the raffle project that winners can receive the raffle NFT by buying tic
   - White Paper: <a href="https://drive.google.com/file/d/1wr9q5HmfVcLoqDKasxQFHxzN4gF_KlE9/view">White Paper</a>
   - Staking: <a href="https://staking.solflowers.io">SOL Flower Staking</a>
   - Buy $Flwr <a href="https://raydium.io/swap/?from=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&to=FLWRna1gxehQ9pSyZMzxfp4UhewvLPwuKfdUTgdZuMBY">Buy $Flwr</a>
-- Github repo: <a href="https://github.com/microgift/raffle-auction-brains-">Sol flowers raffle</a>
+- Github repo: <a href="https://github.com/super1002/raffle-auction-brains-">Sol flowers raffle</a>
 
 
 <h3><u><strong>EU(Eternal Underworld) Raffle</strong></u> &nbsp;(Solana)</h3>
@@ -277,7 +277,7 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
   - Website: <a href="https://www.daku-reapers.com" target="_blank">Daku-Reapers Ressurection</a>
   - Auction: <a href="https://daku-reapers.auction" target="_blank">Daku-Reapers Auction</a>
   - Staking: <a href="https://daku-reaper-staking.vercel.app" target="_blank">Daku-Reapers Staking</a>
-- Github repo: <a href="https://github.com/microgift/EU-raffle" target="_blank">EU-raffle</a>
+- Github repo: <a href="https://github.com/super1002/EU-raffle" target="_blank">EU-raffle</a>
 
 <h3><u><strong>MetaKongz Raffle</strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -295,7 +295,7 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
 - Original Links:
   - Website: <a href="https://www.metakongz.art" target="_blank">MetaKongz</a>
   - Staking: <a href="https://metakongz-staking.vercel.app" target="_blank">MetaKongz Staking</a>
-- Github repo: <a href="https://github.com/microgift/raffle-auction-prospect3" target="_blank">raffle-auction-prospect3</a>
+- Github repo: <a href="https://github.com/super1002/raffle-auction-prospect3" target="_blank">raffle-auction-prospect3</a>
 
 <h3><u><strong><i>Apex Raffle House</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -314,7 +314,7 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
   - Linktree: <a href="https://linktr.ee/ApexPredatorsSOL">Apex Predator | Linktree</a>
   - Website: <a href="https://home.apexpredator.army">Apex Predator</a>
   - Staking: <a href="https://apex-staking.vercel.app">Apex Predator | Staking</a>
-- Github repo: <a href="https://github.com/microgift/Apex-Raffle">Apex-Raffle</a>
+- Github repo: <a href="https://github.com/super1002/Apex-Raffle">Apex-Raffle</a>
 
 <h3><u><strong>Mausoleum</strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -334,7 +334,7 @@ This is raffle/auction houses of tombstoned application on Solana network.
   - Staking: <a href="https://staking.thedogecapital.com">Doge Capital NFT Staking:</a>
   - CoinFlip: <a href="https://degencoinflip.com/dogecapital">Degen Coin Flip:</a>
   - Twitter: <a href="https://twitter.com/thedogecapital">Doge Capital:</a>
-- Github repo: <a href="https://github.com/microgift/auction-doge">auction-doge</a>
+- Github repo: <a href="https://github.com/super1002/auction-doge">auction-doge</a>
   - Project Structure:
     - Auction contract, Api, Front-end
 
@@ -356,7 +356,7 @@ Now we are adding more features for Nanas.
 - Sol Staking: <a href="https://staking.niftynanas.com" target="_blank">Staking Nanas</a>
   (Current Staking is updating.... so It's down now)
   
-- Git repo: <a href="https://github.com/microgift/cronos_nanas_launchpad" target="_blank">cronos_nanas_launchpad</a>
+- Git repo: <a href="https://github.com/super1002/cronos_nanas_launchpad" target="_blank">cronos_nanas_launchpad</a>
 
 <h3><u><strong><i>Wild West Verse - Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -375,7 +375,7 @@ Now we are adding more features for Nanas.
   - If your NFT is rarer you will get more staking reward.
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
 - Original Link: <a href="https://www.wildwestverse.com" target="_blank">Wild West Verse</a>
-- Github repo: <a href="https://github.com/microgift/WWV-NFT-Staking" target="_blank">WWV-NFT-Staking</a>
+- Github repo: <a href="https://github.com/super1002/WWV-NFT-Staking" target="_blank">WWV-NFT-Staking</a>
 
 <h3><u><strong><i>TAC NFT Staking</i></strong></u> &nbsp;(Aurora-EVM)</h3>
 <hr />
@@ -389,7 +389,7 @@ This is the traditional NFT staking project. Users stake their TAC NFTs and rece
   - You can stake your TAC NFT.
   - You will receive reward as 🍌$GBA calculated by 25 days.
 - Original Link: <a href="https://www.theapedao.finance" target="_blank">Buy $GBA|APe DAO</a>
-- Github repo: <a href="https://github.com/microgift/Aurora-staking" target="_blank">Aurora-staking</a>
+- Github repo: <a href="https://github.com/super1002/Aurora-staking" target="_blank">Aurora-staking</a>
 
 <h3><u><strong><i>IconGirl</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
@@ -402,7 +402,7 @@ Now I am working on this project and we are releasing this in Apirl.
 
 - Testnet Link: <a href="https://2contract-test.icon.fashion" target="_blank">Icon Fashion</a>
 - Mainnet Link: <a href="https://icon.fashion" target="_blank">Icon Fashion</a>  (password: LoveIconGirl)
-- Github repo: <a href="https://github.com/microgift/IconFashion" target="_blank">IconGirl</a>
+- Github repo: <a href="https://github.com/super1002/IconFashion" target="_blank">IconGirl</a>
 
 <h3><u><strong><i>97 Universe Minting Page</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -414,7 +414,7 @@ Now I am working on this project and we are releasing this in Apirl.
 - What is `97 Universe` ?
   - 497 AI-androids called “97s” were created to compete with some of the greatest athletes on Earth. 97s were so good that humans no longer saw a reason to compete. After boredom struck, the 97s decided to leave Earth and test their skills against the universe. They built a space stadium where challengers from all over the galaxy can compete. Remaining undefeated the 97s decided to claim the universe, calling it `“The 97 Universe”`.
 - Whitepaper: <a href="https://97-universe.gitbook.io/the-97-universe" target="_blank">Gitbook</a>
-- Github repo: <a href="https://github.com/microgift/Universe97" target="_blank">Universe97</a>
+- Github repo: <a href="https://github.com/super1002/Universe97" target="_blank">Universe97</a>
 
 <h3><u><strong><i>Sol Spacemen</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -425,4 +425,4 @@ Now I am working on this project and we are releasing this in Apirl.
 - Earth is quickly becoming uninhabitable and we need to begin deployment of the materials and resources needed to start construction in the Solanaverse
 - $PARTS token: <a href="https://solscan.io/token/2PcxBC6AZXPTadHWwBdxcnkrdJVmoGZ2raMLstDQcpJk" target="_blank">$PARTS token</a>
 - You can find me at Team member page name is `Venture` as `Dev, Tokenomics and Integration's` <a href="https://www.solspacemen.com/meet-the-team-1" target="_blank">here</a>
-- Git repo: <a href="https://github.com/microgift/token-list" target="_blank">Space Parts</a>
+- Git repo: <a href="https://github.com/super1002/token-list" target="_blank">Space Parts</a>
