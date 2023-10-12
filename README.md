@@ -6,13 +6,54 @@ As you can see here, I have built several LAMP, MERN, MEVN, MEAN Stack, NFT/Bloc
 <hr />
 
 <img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/d20131de-ad36-45f0-9053-a3d4849e984a.png">
-![4](https://github.com/super1002/project-overview/assets/125123579/d20131de-ad36-45f0-9053-a3d4849e984a)
 
 TechSpecs is an API platform dedicated to improving the way the world does business.
 
 - Live: <a href="https://techspecs.io">TechSpecs</a>
 - Frontend repo: <a href="https://github.com/super1002/techspecs-FE">TechSpecs-frontend</a>
 - Backend repo: <a href="https://github.com/super1002/techspecs-BE">TechSpecs-brontend</a>
+
+<h3><u><strong><i>EasyPOS</i></strong></u> &nbsp;(LAMP Stack)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/52077786-9c9f-40d8-9bc5-fa12a75f5cee.png">
+
+This is the point of sale (POS) system for a restaurant this is a powerful tool for restaurants looking to improve their operations and provide a better customer experience.
+
+- Live: <a href="https://uber.easyposapp.com">EasyPOS</a>
+- repo: <a href="https://github.com/super1002/EasyPOS-Laravel">EasyPOS-Laravel</a>
+
+<h3><u><strong><i>JustShift</i></strong></u> &nbsp; - DEX (Bitcoin, Ethereum, Monero)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/1125123579/7d5bf3d5-fb5a-446f-8fab-cdc59602860a.png">
+
+The DEX platform offers a decentralized and secure way to trade cryptocurrencies while providing users with a range of features that enhance their trading experience.
+
+- Live: <a href="https://justshift.io">JustShift</a>
+- Fe-repo: <a href="https://github.com/super1002/MetaSwap-FE">MetaSwap-FE</a>
+- Be-repo: <a href="https://github.com/super1002/MetaSwap-BE">MetaSwap-BE</a>
+
+<h3><u><strong><i>Crypto Legions</i></strong></u> &nbsp;(Binance)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/cabb1338-4157-4f1a-981c-1c7f59aa4fb9.png">
+
+P2E game based on Binance : Users to create and manage their own crypto armies, called "legions". The app leverages the Ethereum blockchain for secure storage of data and cryptographic operations such as hashing and digital signatures.
+
+- Live: <a href="https://cryptolegions.app">Crypto Legions</a>
+- Fe-repo: <a href="https://github.com/super1002/CL-FE">CL-FE</a>
+- Be-repo: <a href="https://github.com/super1002/CL-BE">CL-BE</a>
+
+<h3><u><strong><i>Wax Melts Candle Shop</i></strong></u> &nbsp;(CMS)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/de8dd270-6f2e-4251-8fc6-db30ce24537a.png">
+
+Developed a WordPress website for Wax Melts Candle Shop, an e-commerce platform that sells wax melts candles. The website was built using WordPress, WooCommerce, HTML, CSS, jQuery, Ajax, PHP and MySQL.
+
+- Live: <a href="https://www.picknmelt.com">Wax Melts Candle Shop</a>
+- repo: <a href="https://github.com/super1002/picknmelt-shop">Picknmelt-shop</a>
 
 <h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
 
