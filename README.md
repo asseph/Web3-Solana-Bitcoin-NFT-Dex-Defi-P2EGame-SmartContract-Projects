@@ -5,7 +5,7 @@ As you can see here, I have built several LAMP, MERN, MEVN, MEAN Stack, NFT/Bloc
 <h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/127183857/6c25a679-bdfb-4cec-aeff-4ee85c803214">
+<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/ce3b3600-e1a0-470c-a3aa-e566ff3e1ec0.png">
 
 Gift for pixel artists.
 Spritebox is a minting platform that pixel artists can send there arts every week and users can mint the seleted great arts among them.
@@ -17,7 +17,7 @@ Spritebox is a minting platform that pixel artists can send there arts every wee
 <h3><u><strong><i>The Hoopas</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/127183857/ac4fefd7-0ee5-445d-aec2-8856487d0ac0">
+<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/4ad9e24f-86a2-4edf-b791-2206e38bcd00.png">
 
 Successfully audited backend.
 Built a site for locking Hoopas and Banana collection for 1 month, 3 months or 6 months.
@@ -35,7 +35,7 @@ Built a site for locking Hoopas and Banana collection for 1 month, 3 months or 6
 This is a Lootbox game for `TombStoned`.
 There are 4 coffins in the game. 2 for SOL, 1 for $JOINTS. And the last coffins is a free one that `TombStone HighSociety` holders can open once in a day.
 
-<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/127183857/38edc2ad-1cac-412a-b555-af16a3719d99">
+<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/631592c1-406c-43b4-b6b9-9c775712cd0f.png">
 
 I built backend & smart contract as well as supported web3 integration to front-end.
 
@@ -50,7 +50,7 @@ I built backend & smart contract as well as supported web3 integration to front-
 <hr />
 
 This is a non-custodial staking for `Soblins` - a bluechip NFT collection on Solana network.
-<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/127183857/3195955d-48f3-403e-a2c1-47678ffd0b09">
+<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/f76afa64-3307-4366-8e62-66da70ad6c84.png">
 
 I wrote smart contract and supported web3 integration to front-end.
 
@@ -66,6 +66,7 @@ I wrote smart contract and supported web3 integration to front-end.
 This is a decentralised and multiplayer board-game called `Monopoly` on the Solana blockchain.
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/230545726-10326060-c540-4801-ad99-295ef78ca202.png">
+![230545726-10326060-c540-4801-ad99-295ef78ca202](https://github.com/super1002/project-overview/assets/125123579/ba20b4cb-f087-4664-b4f7-0add3816e76c)
 
 Users must get `$Java` to play and roll the dice. And users can stake/unstake NFTs are called as CnC(Coffe and Crypto).
 I attended this project and wrote smart contract and supported on back-end/front-end integration sides.
@@ -83,6 +84,7 @@ I attended this project and wrote smart contract and supported on back-end/front
 <hr />
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/224244632-4cedc247-8749-4df8-9828-526eff6199c0.png">
+![224244632-4cedc247-8749-4df8-9828-526eff6199c0](https://github.com/super1002/project-overview/assets/125123579/d2cc3a1c-5fff-417a-aff1-5d5cd3ddbe57)
 
 This is one kind of Sol Crash game. 🚕 Instead of that, the transparent is Taxi. 😜.
 
@@ -100,6 +102,7 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 <hr />
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/216958316-c79a05c7-fcf4-4cd6-acb6-2f086e90a6da.png">
+![216958316-c79a05c7-fcf4-4cd6-acb6-2f086e90a6da](https://github.com/super1002/project-overview/assets/125123579/7bf832fb-c8d4-422c-b98f-af3bd3a10156)
 
 This is coin-flip game on solana network. Payment is Sol and users can put their amount in this game. If he is winner, he can get twice of given amount, if not, he will lose his amount. This project includes smart contract, back-end, and front-end integration.
 
@@ -115,6 +118,7 @@ This is coin-flip game on solana network. Payment is Sol and users can put their
 This is mint website on avalanche network. I used Solidity(ERC 721) to write smart contract and Node/Express, MongoDB to make leaderboard page, and Next.js in front-end side. Mint supply is 500 NFTs.
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/209906661-40d7a303-d0ae-4bf8-a3ca-b159927d72ab.png">
+![209906661-40d7a303-d0ae-4bf8-a3ca-b159927d72ab](https://github.com/super1002/project-overview/assets/125123579/d2a3d961-2a22-4956-bd0b-2efcc065e884)
 
 - Demo: <a href="https://avalanche-nft-mint.vercel.app">Plunder The Void</a>
 - Live: <a href="https://plunderthevoid.io">Plunder The Void</a>
@@ -134,6 +138,7 @@ This is mint website on avalanche network. I used Solidity(ERC 721) to write sma
 <hr />
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/183006431-97bdc41e-8b25-4f13-b260-098d948d2853.png">
+![183006431-97bdc41e-8b25-4f13-b260-098d948d2853](https://github.com/super1002/project-overview/assets/125123579/4322ca04-990a-45c2-8b14-6ad4622f66db)
 
 This is burning mechanism to burn NFTs have no metadata in Masked Ape collection. Max burn per wallet per day would be 1 burn to prevent whales easily hoarding MAD tokens by burning blank NFTs.
 
@@ -154,6 +159,7 @@ This is burning mechanism to burn NFTs have no metadata in Masked Ape collection
 A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (2) stake a Baby Tiger and (3) stake a matching pair. The details on the amount of $DAB that is earned along with any multiplier bonus are outlined below. 
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/167239937-327a2413-13c1-4828-9f40-be240d40d42e.png">
+![196169486-e51ed813-aa69-4318-ba04-cf010d488b4a](https://github.com/super1002/project-overview/assets/125123579/c02673b8-3d69-462e-affb-75c6d8b3ee2b)
 
 - Demo: <a href="https://basc-nft-staking.vercel.app">BASC NFT Staking</a>
 - Live Link: <a href="https://stakingv2.babyapesocialclub.com">BASC NFT Staking</a>
@@ -180,6 +186,7 @@ A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (
 <hr />
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/222485565-17b0577f-4dc3-4e35-b1b0-033569bd19bc.png">
+![222485565-17b0577f-4dc3-4e35-b1b0-033569bd19bc](https://github.com/super1002/project-overview/assets/125123579/8aff45b7-f5cd-4341-bef7-735cc596bd70)
 
 Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut/YAKU👨🏿‍🚀 NFT collections.
 
@@ -208,6 +215,7 @@ Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut/YAKU👨�
 Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
 
 <img align="right" width="300px" src="https://miro.medium.com/max/700/1*1WI72-a1PAi388br4HaN5w.png">
+![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3730302f312a31574937322d613150416933383862723448614e35772e706e67](https://github.com/super1002/project-overview/assets/125123579/ce97bdde-a5ff-4dc8-b9a1-34bee84d7f54)
 
 - Create KCRWN token: Link--> <a href="https://solscan.io/token/56bFarytGNPXnA34WbghfHoHQJ7NqKSKyTSnfmACdYtk#holders" target="_blank">KCRWN</a>
 - Staking Link: <a href="https://app.kingdomofdwarves.io/staking" target="_blank">KCRWN Staking</a>
@@ -221,6 +229,7 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
 <hr />
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/201804913-14357891-d1cb-4147-b487-f7778c68bb36.png">
+![201804913-14357891-d1cb-4147-b487-f7778c68bb36](https://github.com/super1002/project-overview/assets/125123579/ae17b87f-cc7f-447a-9ac7-90e8e6c707d7)
 
 Staking an SPL token "FLWR"
 
@@ -239,6 +248,7 @@ Staking an SPL token "FLWR"
 <hr />
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/196169486-e51ed813-aa69-4318-ba04-cf010d488b4a.png">
+![196169486-e51ed813-aa69-4318-ba04-cf010d488b4a](https://github.com/super1002/project-overview/assets/125123579/535d43e2-2aa4-4411-b8c5-96a68f03521e)
 
 This is the raffle project that winners can receive the raffle NFT by buying tickets. You can buy tickets by $Sol and various tokens($FLWR, $SHDW, $DUST, $BOLT).
 
@@ -264,6 +274,7 @@ This is the raffle project that winners can receive the raffle NFT by buying tic
 This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🍂$REAP and $SOL.
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/182041823-ea6fcd55-db77-4ed5-a71f-b9d846ed9887.png">
+![182041823-ea6fcd55-db77-4ed5-a71f-b9d846ed9887](https://github.com/super1002/project-overview/assets/125123579/1d0216de-398c-405a-b36a-e101b956e4ec)
 
 - Link: <a href="https://eu-raffle.vercel.app/raffle" target="_blank">EU Raffle</a>
   - Payment method
@@ -285,6 +296,7 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
 This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🦴$BOOGA, 🍭$ZION, and $SOL.
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/169970030-277f578c-d25a-450b-bc40-71767f818df5.png">
+![169970030-277f578c-d25a-450b-bc40-71767f818df5](https://github.com/super1002/project-overview/assets/125123579/f312fd91-ca67-47fb-8fa6-2f65ce5e78f6)
 
 - Link: <a href="https://metakongz-raffle-auction.vercel.app/raffle" target="_blank">MetaKongz Raffle</a>
 - Live Link: <a href="https://metakongz-metamart.vercel.app">MetaKongz Raffle</a>
@@ -303,6 +315,7 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
 This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using $PREY and $SOL.
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/171998195-6616ae2e-90a8-44e4-946f-65f49e25ff20.png">
+![171998195-6616ae2e-90a8-44e4-946f-65f49e25ff20](https://github.com/super1002/project-overview/assets/125123579/9a930be0-ba1f-4be0-b16f-26ac900b3c6c)
 
 - Demo: <a href="http://apex-raffle.vercel.app">ApeX Raffle House</a>
 - Live: <a href="http://apex-raffle.vercel.app">ApeX Raffle House</a>
@@ -320,6 +333,7 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
 <hr />
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/170251173-46f1bc8c-fb86-48c9-ad8e-7af68c43f5e8.png">
+![170251173-46f1bc8c-fb86-48c9-ad8e-7af68c43f5e8](https://github.com/super1002/project-overview/assets/125123579/5eced5e9-ec9f-4796-a2ae-4ec08b0ad367)
 
 This is raffle/auction houses of tombstoned application on Solana network.
 
@@ -343,6 +357,7 @@ This is raffle/auction houses of tombstoned application on Solana network.
 
 <!-- <img align="right" width="300px" src="https://app.ebisusbay.com/img/collections/cronosnanas/banner.png"> -->
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/170817948-05918b2a-9c26-46cc-97c7-b6cf1c287241.png">
+![170817948-05918b2a-9c26-46cc-97c7-b6cf1c287241](https://github.com/super1002/project-overview/assets/125123579/75a798d7-ac7b-4aa3-a9a1-024bfa53d8ec)
 
 Nifty Nanas.<br />
 Nanas is a deflationary community project of the cutest Nanas on the Solana blockchain! <br/>
@@ -362,6 +377,7 @@ Now we are adding more features for Nanas.
 <hr />
 
 <img align="right" top="30" width="300px" src="https://pbs.twimg.com/media/FM33t89XsAEBI82?format=jpg&name=medium">
+![166076634-5edc5fdc-ac4f-4567-83ad-271a376885c9](https://github.com/super1002/project-overview/assets/125123579/b157320b-2f02-4708-9ef5-b599d5113766)
 
 - Staking Link: <a href="https://staking.wildwestverse.io" target="_blank">WWV Staking</a>
   - RANK /DAILY PRIZE -> 
@@ -395,10 +411,9 @@ This is the traditional NFT staking project. Users stake their TAC NFTs and rece
 <hr />
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/172245168-9c3f0996-a56b-447a-a45b-54fae3c88853.png">
+![172245168-9c3f0996-a56b-447a-a45b-54fae3c88853](https://github.com/super1002/project-overview/assets/125123579/7899bbd3-619c-410d-8bd5-2675351f05b1)
 
 IconFashion is a women led Web3 project with 10,000 hand drawn, composable fashion NFTs. We celebrate women in the fashion and crypto space with special dress up experience, simulating a fashion styling game in the metaverse. In here, every woman can create their own iconic looks and rare outfits. Remeber, everyone can be a fashion icon!
-
-Now I am working on this project and we are releasing this in Apirl.
 
 - Testnet Link: <a href="https://2contract-test.icon.fashion" target="_blank">Icon Fashion</a>
 - Mainnet Link: <a href="https://icon.fashion" target="_blank">Icon Fashion</a>  (password: LoveIconGirl)
@@ -408,6 +423,7 @@ Now I am working on this project and we are releasing this in Apirl.
 <hr />
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166212683-99f62168-fac2-4232-a744-7b72bf5e5f10.png">
+![166212683-99f62168-fac2-4232-a744-7b72bf5e5f10](https://github.com/super1002/project-overview/assets/125123579/7bc0737f-f721-4b64-b15a-f8d6f454eddd)
 
 - Link: <a href="https://universe97.vercel.app" target="_blank">97 Universe</a>
 - Live Link: <a href="https://the97universe.com">The 97 Universe - StreamFi</a>
@@ -420,6 +436,7 @@ Now I am working on this project and we are releasing this in Apirl.
 <hr />
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/165689323-678d0769-eca2-429e-92e2-b97621100b71.png">
+![165689323-678d0769-eca2-429e-92e2-b97621100b71](https://github.com/super1002/project-overview/assets/125123579/831ee83c-e705-46db-b4de-e24171a22f5f)
 
 - Link: <a href="https://www.solspacemen.com" target="_blank">Sol Spacemen</a>
 - Earth is quickly becoming uninhabitable and we need to begin deployment of the materials and resources needed to start construction in the Solanaverse
