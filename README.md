@@ -5,7 +5,7 @@ As you can see here, I have built several LAMP, MERN, MEVN, MEAN Stack, NFT/Bloc
 <h3><u><strong><i>TechSpecs</i></strong></u> &nbsp;(MERN Stack)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/ce3b3600-e1a0-470c-a3aa-e566ff3e1ec0.png">
+<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/d20131de-ad36-45f0-9053-a3d4849e984a.png">
 ![4](https://github.com/super1002/project-overview/assets/125123579/d20131de-ad36-45f0-9053-a3d4849e984a)
 
 TechSpecs is an API platform dedicated to improving the way the world does business.
