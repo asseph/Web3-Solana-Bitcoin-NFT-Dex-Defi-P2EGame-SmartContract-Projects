@@ -26,7 +26,7 @@ This is the point of sale (POS) system for a restaurant this is a powerful tool 
 <h3><u><strong><i>JustShift</i></strong></u> &nbsp; - DEX (Bitcoin, Ethereum, Monero)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/1125123579/7d5bf3d5-fb5a-446f-8fab-cdc59602860a.png">
+<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/7d5bf3d5-fb5a-446f-8fab-cdc59602860a.png">
 
 The DEX platform offers a decentralized and secure way to trade cryptocurrencies while providing users with a range of features that enhance their trading experience.
 
