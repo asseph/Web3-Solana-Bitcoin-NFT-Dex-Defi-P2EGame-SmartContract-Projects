@@ -5,7 +5,7 @@ As you can see here, I have built several LAMP, MERN, MEVN, MEAN Stack, NFT/Bloc
 <h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/super1002/web3-projects-overview/assets/127183857/6c25a679-bdfb-4cec-aeff-4ee85c803214">
+<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/127183857/6c25a679-bdfb-4cec-aeff-4ee85c803214">
 
 Gift for pixel artists.
 Spritebox is a minting platform that pixel artists can send there arts every week and users can mint the seleted great arts among them.
@@ -17,7 +17,7 @@ Spritebox is a minting platform that pixel artists can send there arts every wee
 <h3><u><strong><i>The Hoopas</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/super1002/web3-projects-overview/assets/127183857/ac4fefd7-0ee5-445d-aec2-8856487d0ac0">
+<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/127183857/ac4fefd7-0ee5-445d-aec2-8856487d0ac0">
 
 Successfully audited backend.
 Built a site for locking Hoopas and Banana collection for 1 month, 3 months or 6 months.
@@ -35,7 +35,7 @@ Built a site for locking Hoopas and Banana collection for 1 month, 3 months or 6
 This is a Lootbox game for `TombStoned`.
 There are 4 coffins in the game. 2 for SOL, 1 for $JOINTS. And the last coffins is a free one that `TombStone HighSociety` holders can open once in a day.
 
-<img align="right" width="300px" src="https://github.com/super1002/web3-projects-overview/assets/127183857/38edc2ad-1cac-412a-b555-af16a3719d99">
+<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/127183857/38edc2ad-1cac-412a-b555-af16a3719d99">
 
 I built backend & smart contract as well as supported web3 integration to front-end.
 
@@ -50,7 +50,7 @@ I built backend & smart contract as well as supported web3 integration to front-
 <hr />
 
 This is a non-custodial staking for `Soblins` - a bluechip NFT collection on Solana network.
-<img align="right" width="300px" src="https://github.com/super1002/web3-projects-overview/assets/127183857/3195955d-48f3-403e-a2c1-47678ffd0b09">
+<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/127183857/3195955d-48f3-403e-a2c1-47678ffd0b09">
 
 I wrote smart contract and supported web3 integration to front-end.
 
