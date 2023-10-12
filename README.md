@@ -14,6 +14,21 @@ Spritebox is a minting platform that pixel artists can send there arts every wee
 - Live backend: <a href="https://api.spritebox.art">Spritebox backend</a>
 - Frontend repo: <a href="https://github.com/super1002/spritebox">Spritebox-frontend</a>
 - Backend repo: <a href="https://github.com/super1002/sprite-box-backend">Spritebox-brontend</a>
+
+<h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
+
+<hr />
+
+<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/ce3b3600-e1a0-470c-a3aa-e566ff3e1ec0.png">
+
+Gift for pixel artists.
+Spritebox is a minting platform that pixel artists can send there arts every week and users can mint the seleted great arts among them.
+
+- Live: <a href="https://spritebox.art">Spritebox</a>
+- Live backend: <a href="https://api.spritebox.art">Spritebox backend</a>
+- Frontend repo: <a href="https://github.com/super1002/spritebox">Spritebox-frontend</a>
+- Backend repo: <a href="https://github.com/super1002/sprite-box-backend">Spritebox-brontend</a>
+
 <h3><u><strong><i>The Hoopas</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
