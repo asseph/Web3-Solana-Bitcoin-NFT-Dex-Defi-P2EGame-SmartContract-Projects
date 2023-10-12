@@ -2,18 +2,17 @@
 
 As you can see here, I have built several LAMP, MERN, MEVN, MEAN Stack, NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 
-<h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>TechSpecs</i></strong></u> &nbsp;(MERN Stack)</h3>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/ce3b3600-e1a0-470c-a3aa-e566ff3e1ec0.png">
+![4](https://github.com/super1002/project-overview/assets/125123579/d20131de-ad36-45f0-9053-a3d4849e984a)
 
-Gift for pixel artists.
-Spritebox is a minting platform that pixel artists can send there arts every week and users can mint the seleted great arts among them.
+TechSpecs is an API platform dedicated to improving the way the world does business.
 
-- Live: <a href="https://spritebox.art">Spritebox</a>
-- Live backend: <a href="https://api.spritebox.art">Spritebox backend</a>
-- Frontend repo: <a href="https://github.com/super1002/spritebox">Spritebox-frontend</a>
-- Backend repo: <a href="https://github.com/super1002/sprite-box-backend">Spritebox-brontend</a>
+- Live: <a href="https://techspecs.io">TechSpecs</a>
+- Frontend repo: <a href="https://github.com/super1002/techspecs-FE">TechSpecs-frontend</a>
+- Backend repo: <a href="https://github.com/super1002/techspecs-BE">TechSpecs-brontend</a>
 
 <h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
 
