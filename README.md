@@ -139,7 +139,6 @@ I attended this project and wrote smart contract and supported on back-end/front
 <hr />
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/224244632-4cedc247-8749-4df8-9828-526eff6199c0.png">
-![224244632-4cedc247-8749-4df8-9828-526eff6199c0](https://github.com/super1002/project-overview/assets/125123579/d2cc3a1c-5fff-417a-aff1-5d5cd3ddbe57)
 
 This is one kind of Sol Crash game. 🚕 Instead of that, the transparent is Taxi. 😜.
 
