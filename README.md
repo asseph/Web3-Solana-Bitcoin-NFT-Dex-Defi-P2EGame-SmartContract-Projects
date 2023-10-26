@@ -160,7 +160,8 @@ This is coin-flip game on solana network. Payment is Sol and users can put their
 
 - Demo: <a href="https://deezkits-coinflip.vercel.app">Deezkits CoinFlip</a>
 - Live: <a href="https://coinflip.deezkits.com">Deezkits CoinFlip</a>
-- Github repo: <a href="https://github.com/super1002/coin-flip-solkitty">coin-flip-solkitty</a>
+- Frontend repo: <a href="https://github.com/super1002/deezkits-fe">deezkits-fe</a>
+- Smart contract repo: <a href="https://github.com/super1002/deezkits-contract">deezkits-contract</a>
 
 
 
