@@ -1,27 +1,6 @@
 # <i>My past full stack & blockchain projects</i>
 
-As you can see here, I have built several LAMP, MERN, MEVN, MEAN Stack, NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status.
-
-<h3><u><strong><i>TechSpecs</i></strong></u> &nbsp;(MERN Stack)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/d20131de-ad36-45f0-9053-a3d4849e984a.png">
-
-TechSpecs is an API platform dedicated to improving the way the world does business.
-
-- Live: <a href="https://techspecs.io">TechSpecs</a>
-- Frontend repo: <a href="https://github.com/super1002/techspecs-FE">TechSpecs-frontend</a>
-- Backend repo: <a href="https://github.com/super1002/techspecs-BE">TechSpecs-brontend</a>
-
-<h3><u><strong><i>EasyPOS</i></strong></u> &nbsp;(LAMP Stack)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/52077786-9c9f-40d8-9bc5-fa12a75f5cee.png">
-
-This is the point of sale (POS) system for a restaurant this is a powerful tool for restaurants looking to improve their operations and provide a better customer experience.
-
-- Live: <a href="https://uber.easyposapp.com">EasyPOS</a>
-- repo: <a href="https://github.com/super1002/EasyPOS-Laravel">EasyPOS-Laravel</a>
+As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 
 <h3><u><strong><i>JustShift</i></strong></u> &nbsp; - DEX (Bitcoin, Ethereum, Monero)</h3>
 <hr />
