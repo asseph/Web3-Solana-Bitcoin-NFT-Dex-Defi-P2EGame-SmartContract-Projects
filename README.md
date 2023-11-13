@@ -34,16 +34,6 @@ P2E game based on Binance : Users to create and manage their own crypto armies, 
 - Fe-repo: <a href="https://github.com/super1002/CL-FE">CL-FE</a>
 - Be-repo: <a href="https://github.com/super1002/CL-BE">CL-BE</a>
 
-<h3><u><strong><i>Wax Melts Candle Shop</i></strong></u> &nbsp;(CMS)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/de8dd270-6f2e-4251-8fc6-db30ce24537a.png">
-
-Developed a WordPress website for Wax Melts Candle Shop, an e-commerce platform that sells wax melts candles. The website was built using WordPress, WooCommerce, HTML, CSS, jQuery, Ajax, PHP and MySQL.
-
-- Live: <a href="https://www.picknmelt.com">Wax Melts Candle Shop</a>
-- repo: <a href="https://github.com/super1002/picknmelt-shop">Picknmelt-shop</a>
-
 <h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
 
 <hr />
