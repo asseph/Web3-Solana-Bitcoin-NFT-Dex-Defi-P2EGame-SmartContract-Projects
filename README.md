@@ -23,17 +23,6 @@ The DEX platform offers a decentralized and secure way to trade cryptocurrencies
 - Fe-repo: <a href="https://github.com/super1002/MetaSwap-FE">MetaSwap-FE</a>
 - Be-repo: <a href="https://github.com/super1002/MetaSwap-BE">MetaSwap-BE</a>
 
-<h3><u><strong><i>Crypto Legions</i></strong></u> &nbsp;(Binance)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/cabb1338-4157-4f1a-981c-1c7f59aa4fb9.png">
-
-P2E game based on Binance : Users to create and manage their own crypto armies, called "legions". The app leverages the Ethereum blockchain for secure storage of data and cryptographic operations such as hashing and digital signatures.
-
-- Live: <a href="https://cryptolegions.app">Crypto Legions</a>
-- Fe-repo: <a href="https://github.com/super1002/CL-FE">CL-FE</a>
-- Be-repo: <a href="https://github.com/super1002/CL-BE">CL-BE</a>
-
 <h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
 
 <hr />
