@@ -37,7 +37,7 @@ The DEX platform offers a decentralized and secure way to trade cryptocurrencies
 
 <hr />
 
-<img align="right" width="300px" src="https://github.com/asseph/project-overview/assets/125123579/ce3b3600-e1a0-470c-a3aa-e566ff3e1ec0.png">
+<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/ce3b3600-e1a0-470c-a3aa-e566ff3e1ec0.png">
 
 Gift for pixel artists.
 Spritebox is a minting platform that pixel artists can send there arts every week and users can mint the seleted great arts among them.
@@ -50,7 +50,7 @@ Spritebox is a minting platform that pixel artists can send there arts every wee
 <h3><u><strong><i>The Hoopas</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/asseph/project-overview/assets/125123579/4ad9e24f-86a2-4edf-b791-2206e38bcd00.png">
+<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/4ad9e24f-86a2-4edf-b791-2206e38bcd00.png">
 
 Successfully audited backend.
 Built a site for locking Hoopas and Banana collection for 1 month, 3 months or 6 months.
@@ -68,7 +68,7 @@ Built a site for locking Hoopas and Banana collection for 1 month, 3 months or 6
 This is a Lootbox game for `TombStoned`.
 There are 4 coffins in the game. 2 for SOL, 1 for $JOINTS. And the last coffins is a free one that `TombStone HighSociety` holders can open once in a day.
 
-<img align="right" width="300px" src="https://github.com/asseph/project-overview/assets/125123579/631592c1-406c-43b4-b6b9-9c775712cd0f.png">
+<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/631592c1-406c-43b4-b6b9-9c775712cd0f.png">
 
 I built backend & smart contract as well as supported web3 integration to front-end.
 
@@ -83,7 +83,7 @@ I built backend & smart contract as well as supported web3 integration to front-
 <hr />
 
 This is a non-custodial staking for `Soblins` - a bluechip NFT collection on Solana network.
-<img align="right" width="300px" src="https://github.com/asseph/project-overview/assets/125123579/f76afa64-3307-4366-8e62-66da70ad6c84.png">
+<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/f76afa64-3307-4366-8e62-66da70ad6c84.png">
 
 I wrote smart contract and supported web3 integration to front-end.
 
