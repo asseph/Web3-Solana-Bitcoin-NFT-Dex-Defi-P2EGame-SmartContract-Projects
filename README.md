@@ -1,6 +1,16 @@
 # <i>My past Blockchain projects</i>
 
-As you can see here, I have built several NFT/Blockchain projects including NFT lending/borrowing, minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status.
+As you can see here, I have built several NFT/Blockchain projects including NFT lending/borrowing, minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(lootboxes, dice, crash, jackpot, coinflip, etc). All of repos are under private status.
+
+<h3><u><strong><i>T2E-Dapp</i></strong></u> &nbsp; - Tweet to Earn Platform</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/super1002/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/91a07b10-e7bc-4ef5-88d5-9135d76e0f30">
+
+
+The goal of this platform is to develop a cutting-edge lending and borrowing platform specifically designed for Bitcoin Non-Fungible Tokens (NFTs). The platform will leverage the latest technologies and industry best practices to provide users with a seamless and secure experience.
+
+- repo: <a href="https://github.com/super1002/BTC-NFT-Lending">BTC-NFT-Lending</a>
 
 <h3><u><strong><i>Under World Lending</i></strong></u> &nbsp; - Bitcoin Ordinal Platform</h3>
 <hr />
