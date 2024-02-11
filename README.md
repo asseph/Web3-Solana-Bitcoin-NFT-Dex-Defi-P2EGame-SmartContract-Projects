@@ -2,15 +2,16 @@
 
 As you can see here, I have built several NFT/Blockchain projects including NFT lending/borrowing, minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(lootboxes, dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 
-<h3><u><strong><i>T2E-Dapp</i></strong></u> &nbsp; - Tweet to Earn Platform</h3>
+<h3><u><strong><i>Gaimin-Portal</i></strong></u> &nbsp; - Tweet to Earn Platform</h3>
 <hr />
 
-<img align="right" width="300px" height="250px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/ded7ab52-6225-4f52-8116-2042eb9fe799">
+<img align="right" width="300px" height="200px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/ded7ab52-6225-4f52-8116-2042eb9fe799">
 
 By earning Points you move up levels. Each level reached earns your shards into crystals. And the number of Crystals decided how much $GMRX you will be able to claim.
 
 You can earn points by interacting with GAIMIN Power Tweets (likes and replies, up to 1 reply per post). Power Tweets will only be live for a limited period after they’re posted. Engaging with them after that period will not earn you points.
 
+- Live: <a href="https://gaimin.io">Gaimin</a>
 - repo: <a href="https://github.com/asseph/gaimin-portal">Gaimin-Portal</a>
 
 <h3><u><strong><i>T2E-Dapp</i></strong></u> &nbsp; - Tweet to Earn Platform</h3>
