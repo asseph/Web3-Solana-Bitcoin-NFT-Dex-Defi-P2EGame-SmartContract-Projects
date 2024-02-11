@@ -7,10 +7,10 @@ As you can see here, I have built several NFT/Blockchain projects including NFT 
 
 <img align="right" width="300px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/91a07b10-e7bc-4ef5-88d5-9135d76e0f30">
 
+The vision of the project is to allow users to earn $ELMNT token by tweeting once per day for the public and twice for token holders.
 
-The goal of this platform is to develop a cutting-edge lending and borrowing platform specifically designed for Bitcoin Non-Fungible Tokens (NFTs). The platform will leverage the latest technologies and industry best practices to provide users with a seamless and secure experience.
-
-- repo: <a href="https://github.com/asseph/BTC-NFT-Lending">BTC-NFT-Lending</a>
+- Live: <a href="https://tweet2earn.xyz">Tweet2Earn</a>
+- repo: <a href="https://github.com/asseph/Elementals-V6">Elementals-T2E</a>
 
 <h3><u><strong><i>Under World Lending</i></strong></u> &nbsp; - Bitcoin Ordinal Platform</h3>
 <hr />
