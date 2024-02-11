@@ -2,6 +2,18 @@
 
 As you can see here, I have built several NFT/Blockchain projects including NFT lending/borrowing, minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(lootboxes, dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 
+<h3><u><strong><i>Elementals-Staking</i></strong></u> &nbsp; -  Staking Platform</h3>
+<hr />
+
+<img align="right" width="300px" height="200px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/ded7ab52-6225-4f52-8116-2042eb9fe799">
+
+Launch PFP staking functionality for users to stake their profile pictures and earn passive $ELMNT. Collaborate with other projects to offer project-specific rewards for PFP stakers, fostering cross-community engagemen.
+Introduce different staking tiers with varying reward structures, encouraging long-term commitment
+
+- Live: <a href="https://staking.elementalsnft.io">Elementals-Staking</a>
+- fe-repo: <a href="https://github.com/asseph/elemental-staking-fe">elemental-staking-fe</a>
+- smart contract: <a href="https://github.com/asseph/elementals-staking-contract">elementals-staking-contract</a>
+
 <h3><u><strong><i>Gaimin-Portal</i></strong></u> &nbsp; - Tweet to Earn Platform</h3>
 <hr />
 
@@ -12,7 +24,8 @@ By earning Points you move up levels. Each level reached earns your shards into 
 You can earn points by interacting with GAIMIN Power Tweets (likes and replies, up to 1 reply per post). Power Tweets will only be live for a limited period after they’re posted. Engaging with them after that period will not earn you points.
 
 - Live: <a href="https://gaimin.io">Gaimin</a>
-- repo: <a href="https://github.com/asseph/gaimin-portal">Gaimin-Portal</a>
+- user-repo: <a href="https://github.com/asseph/gaimin-portal">Gaimin-Portal</a>
+- admin-repo: <a href="https://github.com/asseph/gaimin-admin">Gaimin-Admin</a>
 
 <h3><u><strong><i>T2E-Dapp</i></strong></u> &nbsp; - Tweet to Earn Platform</h3>
 <hr />
