@@ -2,7 +2,7 @@
 
 As you can see here, I have built several NFT/Blockchain projects including NFT lending/borrowing, minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(lootboxes, dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 
-<h3><u><strong><i>Elementals-Staking</i></strong></u> &nbsp; -  Staking Platform</h3>
+<h3><u><strong><i>Elementals-Staking</i></strong></u> &nbsp;- Staking Platform</h3>
 <hr />
 
 <img align="right" width="300px" height="200px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/e83f3bc6-b19e-426c-9cd3-1779d0859d66">
@@ -14,7 +14,7 @@ Introduce different staking tiers with varying reward structures, encouraging lo
 - fe-repo: <a href="https://github.com/asseph/elemental-staking-fe">elemental-staking-fe</a>
 - smart contract: <a href="https://github.com/asseph/elementals-staking-contract">elementals-staking-contract</a>
 
-<h3><u><strong><i>Gaimin-Portal</i></strong></u> &nbsp; - Tweet to Earn Platform</h3>
+<h3><u><strong><i>Gaimin-Portal</i></strong></u> &nbsp;- Tweet to Earn Platform</h3>
 <hr />
 
 <img align="right" width="300px" height="200px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/ded7ab52-6225-4f52-8116-2042eb9fe799">
@@ -27,7 +27,7 @@ You can earn points by interacting with GAIMIN Power Tweets (likes and replies, 
 - user-repo: <a href="https://github.com/asseph/gaimin-portal">Gaimin-Portal</a>
 - admin-repo: <a href="https://github.com/asseph/gaimin-admin">Gaimin-Admin</a>
 
-<h3><u><strong><i>T2E-Dapp</i></strong></u> &nbsp; - Tweet to Earn Platform</h3>
+<h3><u><strong><i>T2E-Dapp</i></strong></u> &nbsp;- Tweet to Earn Platform</h3>
 <hr />
 
 <img align="right" width="300px" height="150px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/f8b9471e-15e2-44f7-9822-6a3e5dbfbca5">
