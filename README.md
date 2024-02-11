@@ -5,7 +5,7 @@ As you can see here, I have built several NFT/Blockchain projects including NFT 
 <h3><u><strong><i>Elementals-Staking</i></strong></u> &nbsp; -  Staking Platform</h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/ded7ab52-6225-4f52-8116-2042eb9fe799">
+<img align="right" width="300px" height="200px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/e83f3bc6-b19e-426c-9cd3-1779d0859d66">
 
 Launch PFP staking functionality for users to stake their profile pictures and earn passive $ELMNT. Collaborate with other projects to offer project-specific rewards for PFP stakers, fostering cross-community engagemen.
 Introduce different staking tiers with varying reward structures, encouraging long-term commitment
