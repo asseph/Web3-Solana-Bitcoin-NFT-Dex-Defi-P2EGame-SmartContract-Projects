@@ -2,6 +2,20 @@
 
 As you can see here, I have built several NFT/Blockchain projects including NFT lending/borrowing, minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(lootboxes, dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 
+<h3><u><strong><i>Elementals-Staking</i></strong></u> &nbsp;- Staking Platform</h3>
+<hr />
+
+<img align="right" width="300px" height="200px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/660307e1-2148-4309-9808-7fdce336685e">
+
+This project is an innovative gaming project built on the Solana blockchain network. In this game, players have the opportunity to acquire virtual loot boxes containing various in-game items, rewards, or assets using Solana's fast and low-cost transactions.
+
+Players can purchase these loot boxes using Solana's native cryptocurrency and unlock exciting surprises within them. Each loot box may contain unique digital assets, collectibles, skins, or other valuable items that can enhance the gaming experience or be traded within the game's ecosystem.
+
+The project aims to leverage Solana's high-performance blockchain technology to offer players a seamless and secure gaming experience with transparent ownership of digital assets. Through the integration of decentralized finance (DeFi) principles, players can participate in the game's economy, trade assets on decentralized exchanges, and potentially earn rewards through staking or liquidity provision.
+
+- fe-repo: <a href="https://github.com/asseph/elemental-lootboxes-fe">elemental-lootboxes-fe</a>
+- smart contract: <a href="https://github.com/asseph/elemental-lootboxes-sc">elementals-lootboxes-contract</a>
+
 <h3><u><strong><i>E7L</i></strong></u> &nbsp;- Rust smart contract</h3>
 <hr />
 
