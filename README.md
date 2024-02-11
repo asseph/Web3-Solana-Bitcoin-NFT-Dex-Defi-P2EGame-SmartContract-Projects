@@ -2,6 +2,24 @@
 
 As you can see here, I have built several NFT/Blockchain projects including NFT lending/borrowing, minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(lootboxes, dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 
+<h3><u><strong><i>E7L-Rust smart contract</i></strong></u> &nbsp;- Contract Standard</h3>
+<hr />
+
+<img align="right" width="300px" height="200px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/3d9eddfd-4557-4edc-84f0-e4036a5265">
+
+Check out this Ethereum contract, just for the use-case of the program: https://github.com/Racks-Labs/ERC721-Linkable
+
+An NFT should be able to be initialized in a way where other NFTs can be linked and unlinked again from it.
+Instructions will be link, unlink, sync same as in erc721 example
+- Initialise PDA for NFT that other NFTs should be linked to
+- Link instructions 
+ -- adds the linked NFT as address to the PDA of the main NFT.
+ -- Freezes the NFT in the current users wallet and delegates authority to unfreeze and transfer to the PDA
+- Unlink unfreezes and removes PDA delegate again
+- Sync looks at a linked NFT of a main NFT. If the main NFT has a different owner than the linked NFT, the linked NFT is transferred to the new main NFT owner
+
+- contract-repo: <a href="https://github.com/asseph/E7L-S-Protocol">E7L-Solana protocol</a>
+
 <h3><u><strong><i>Elementals-Staking</i></strong></u> &nbsp;- Staking Platform</h3>
 <hr />
 
