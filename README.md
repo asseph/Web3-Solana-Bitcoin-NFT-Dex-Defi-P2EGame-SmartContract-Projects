@@ -6,7 +6,6 @@ As you can see here, I have built several NFT/Blockchain projects including NFT 
 <hr />
 
 <img align="right" width="300px" height="200px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/c526fa39-6155-45aa-941c-3894b7f82c98">
-![E7L-S](https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/c526fa39-6155-45aa-941c-3894b7f82c98)
 
 Check out this Ethereum contract, just for the use-case of the program: https://github.com/Racks-Labs/ERC721-Linkable
 
