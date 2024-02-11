@@ -9,6 +9,11 @@ As you can see here, I have built several NFT/Blockchain projects including NFT 
 
 The vision of the project is to allow users to earn $ELMNT token by tweeting once per day for the public and twice for token holders.
 
+
+
+
+
+
 - Live: <a href="https://tweet2earn.xyz">Tweet2Earn</a>
 - repo: <a href="https://github.com/asseph/Elementals-V6">Elementals-T2E</a>
 
